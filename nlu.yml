@@ -1468,3 +1468,843 @@ nlu:
     - Who's leading the organization of Meep Mop?
     - Share information about Meep Mop's event planners.
 
+- intent: event_all_rule_Bumble_See
+  examples: |
+    - What are all the rules for the event Bumble See?
+    - Tell me the complete list of rules for Bumble See.
+    - Can you provide me with all the rules of Bumble See?
+    - I need to know all the regulations for the Bumble See event.
+    - Please list down all the rules for Bumble See.
+    - Give me the full set of guidelines for the Bumble See competition.
+    - I want to be aware of every rule for Bumble See, can you help?
+    - Share all the rules and regulations for the Bumble See event.
+    - Inform me about the event Bumble See and its rules.
+    - What are the comprehensive rules for Bumble See?
+    - Provide me with all the event Bumble See rules.
+    - I'm looking for a detailed list of rules for Bumble See.
+    - List all the rules that apply to the Bumble See competition.
+    - Can you give me the extensive set of rules for Bumble See?
+    - Tell me everything I need to know about the rules of Bumble See.
+    - I want to understand every rule associated with Bumble See.
+    - Share the complete rulebook for the event Bumble See.
+    - I need to have a thorough understanding of Bumble See rules.
+    - What's the entire list of rules for the Bumble See event?
+    - Provide me with the full rule set for Bumble See.
+
+- intent: event_rule_1_Bumble_See
+  examples: |
+    - What's the first rule for Bumble See event?
+    - Explain rule 1 for Bumble See.
+    - Can you tell me the initial rule of Bumble See event?
+    - Share the primary guideline for Bumble See.
+    - I'd like to know the first regulation for the Bumble See event.
+    - Describe the opening rule for Bumble See.
+    - What's rule number 1 for the Bumble See event?
+    - Tell me the starting rule for Bumble See.
+    - Give me the first principle for the Bumble See event.
+    - Explain the first rule of Bumble See.
+    - What's the first instruction for the Bumble See event?
+    - Can you clarify the first rule for Bumble See?
+    - Share the rule 1 details for Bumble See.
+    - Provide information about the initial rule of Bumble See.
+    - I'm curious about the first rule for Bumble See.
+    - Please tell me the rule 1 specifics for the Bumble See event.
+    - What's the primary rule for the Bumble See event?
+    - I want to understand the first guideline for Bumble See.
+    - Could you describe the rule 1 for Bumble See?
+    - Explain the first regulation for the Bumble See event.
+    - Share details about the starting rule of Bumble See.
+
+- intent: event_rule_2_Bumble_See
+  examples: |
+    - What is the second rule for Bumble See?
+    - Can you tell me the second rule of Bumble See?
+    - I'd like to know the second guideline for Bumble See.
+    - Give me the second rule applicable to Bumble See.
+    - What's rule number 2 for Bumble See?
+    - Explain the second Bumble See rule to me.
+    - Tell me the second principle of Bumble See.
+    - What's the second regulation for Bumble See?
+    - I'm curious about the second rule for Bumble See.
+    - Please provide the second Bumble See rule.
+    - I need information about the second Bumble See rule.
+    - Share the second guideline for Bumble See.
+    - I want to understand the second rule of Bumble See.
+    - Could you describe the second rule regarding Bumble See?
+    - Inform me about the second Bumble See rule.
+    - I'm interested in the second rule for Bumble See.
+    - What's the second Bumble See rule all about?
+    - Can you elaborate on the second rule for Bumble See?
+    - Please clarify the second guideline for Bumble See.
+    - I need to know the second rule for Bumble See.
+
+- intent: event_rule_3_Bumble_See
+  examples:
+    - What's the third rule for Bumble See?
+    - Can you tell me the third rule of Bumble See?
+    - I need to know the third guideline for Bumble See.
+    - What's the rule number 3 for Bumble See?
+    - Please provide the third rule of Bumble See.
+    - Tell me the third principle of Bumble See.
+    - Give me the third rule for Bumble See.
+    - I'm curious about the third Bumble See rule.
+    - Share the third Bumble See guideline.
+    - Explain the third Bumble See regulation.
+    - What's the third Bumble See rule all about?
+    - Provide me with the third rule of Bumble See.
+    - Could you describe the third Bumble See rule?
+    - Let me know the third Bumble See guideline.
+    - I want to learn the third rule of Bumble See.
+    - Tell me about the third Bumble See rule.
+    - Explain the third rule for Bumble See.
+    - I'm interested in the third Bumble See rule.
+    - Please share the third rule of Bumble See.
+    - Describe the third Bumble See regulation.
+
+- intent: event_rule_4_Bumble_See
+  examples: |
+    - What's the fourth rule for Bumble See?
+    - Tell me the fourth guideline for Bumble See.
+    - I need to know the fourth rule of Bumble See.
+    - Could you share the fourth Bumble See rule with me?
+    - What's the fourth principle of Bumble See?
+    - Explain the fourth rule in Bumble See.
+    - What is rule number four for Bumble See?
+    - Share the fourth Bumble See rule, please.
+    - I'm curious about the fourth rule in Bumble See.
+    - Give me the fourth Bumble See guideline.
+    - Tell me about the fourth rule of Bumble See.
+    - I want to learn the fourth rule for Bumble See.
+    - What's the fourth regulation for Bumble See?
+    - Provide information about the fourth Bumble See rule.
+    - Can you tell me the fourth Bumble See rule?
+    - I'm interested in rule number four in Bumble See.
+    - What's the fourth rule I should know in Bumble See?
+    - Share the fourth Bumble See guideline with me.
+    - Tell me the fourth rule related to Bumble See.
+    - Explain the fourth Bumble See rule to me.
+    - What's the fourth rule that applies to Bumble See?
+
+- intent: event_rule_5_Bumble_See
+  examples: |
+    - What's the fifth rule for Bumble See?
+    - Can you tell me the rule number five for Bumble See?
+    - Explain the fifth rule of Bumble See.
+    - I need to know the rule five in Bumble See.
+    - Please share the fifth Bumble See rule with me.
+    - Tell me the rule number 5 for Bumble See.
+    - What's rule five in Bumble See?
+    - Give me information about the fifth rule of Bumble See.
+    - I'm curious about the fifth rule in Bumble See.
+    - Describe the fifth rule of Bumble See.
+    - Provide details on the rule number five in Bumble See.
+    - Share the fifth Bumble See rule, please.
+    - Could you inform me about the fifth rule of Bumble See?
+    - I want to learn about the rule five in Bumble See.
+    - What's the fifth guideline in Bumble See?
+    - Enlighten me about the fifth rule for Bumble See.
+    - I'm looking for information on the fifth Bumble See rule.
+    - Tell me what rule number 5 is in Bumble See.
+    - Explain the rule five for Bumble See.
+    - Can you give me details on the fifth rule in Bumble See?
+    - Share the fifth rule of Bumble See.
+
+- intent: event_rule_6_Bumble_See
+  examples: |
+    - What's the sixth rule for Bumble See?
+    - Tell me the sixth rule of Bumble See.
+    - I need to know the rule number six for Bumble See.
+    - Could you share the sixth Bumble See rule?
+    - What's rule 6 in Bumble See's guidelines?
+    - Give me the sixth rule of Bumble See.
+    - Share the rule number six in Bumble See.
+    - I'm curious about the sixth rule of Bumble See.
+    - Please provide the sixth Bumble See rule.
+    - What's the rule that comes after five in Bumble See?
+    - Inform me about the rule number six in Bumble See.
+    - I want to learn the sixth Bumble See rule.
+    - Could you tell me the sixth rule for Bumble See, please?
+    - Let me know the sixth rule of Bumble See.
+    - I'm looking for the sixth Bumble See guideline.
+    - Share the Bumble See rule that's number six.
+    - What's the rule after the fifth in Bumble See?
+    - Inform me about the sixth rule in Bumble See's policy.
+    - I'd like to understand the sixth Bumble See rule.
+    - Please provide the sixth rule for Bumble See.
+
+- intent: event_all_rule_Match_n_Engage
+  examples: |
+    - What are all the rules for the event Match n Engage?
+    - Tell me the complete list of rules for Match n Engage.
+    - Can you provide me with all the rules of Match n Engage?
+    - I need to know all the regulations for the Match n Engage event.
+    - Please list down all the rules for Match n Engage.
+    - Give me the full set of guidelines for the Match n Engage competition.
+    - I want to be aware of every rule for Match n Engage, can you help?
+    - Share all the rules and regulations for the Match n Engage event.
+    - Inform me about the event Match n Engage and its rules.
+    - What are the comprehensive rules for Match n Engage?
+    - Provide me with all the event Match n Engage rules.
+    - I'm looking for a detailed list of rules for Match n Engage.
+    - List all the rules that apply to the Match n Engage competition.
+    - Can you give me the extensive set of rules for Match n Engage?
+    - Tell me everything I need to know about the rules of Match n Engage.
+    - I want to understand every rule associated with Match n Engage.
+    - Share the complete rulebook for the event Match n Engage.
+    - I need to have a thorough understanding of Match n Engage rules.
+    - What's the entire list of rules for the Match n Engage event?
+    - Provide me with the full rule set for Match n Engage.
+
+- intent: event_rule_1_Match_n_Engage
+  examples: |
+    - What's the first rule for Match n Engage?
+    - Can you tell me the first rule related to Match n Engage?
+    - I'd like to know the initial rule for Match n Engage.
+    - Please share the first guideline for Match n Engage.
+    - What's the opening principle for Match n Engage?
+    - Give me the first rule of Match n Engage.
+    - Tell me the first step for Match n Engage.
+    - I'm curious about the first instruction for Match n Engage.
+    - What's the starting point for Match n Engage?
+    - Share the first rule of engagement for Match n Engage.
+    - Explain the first guideline for Match n Engage.
+    - I'm looking for the first rule regarding Match n Engage.
+    - Can you provide the first advice for Match n Engage?
+    - What's the very first thing to do in Match n Engage?
+    - I'd like to begin with the first rule of Match n Engage.
+    - Tell me the initial step for Match n Engage.
+    - Share the first directive for Match n Engage.
+    - What's the first thing I need to know about Match n Engage?
+    - Please elaborate on the first rule for Match n Engage.
+    - Can you give me the first point about Match n Engage?
+
+- intent: event_rule_2_Match_n_Engage
+  examples: |
+    - What is the second rule for Match n Engage?
+    - Please tell me the second rule of Match n Engage.
+    - I'd like to know the second rule in Match n Engage.
+    - Can you share the second guideline for Match n Engage?
+    - Explain the second rule for Match n Engage.
+    - Give me the second principle of Match n Engage.
+    - Tell me about the second rule in Match n Engage.
+    - What's the second step in Match n Engage?
+    - I'm interested in the second rule of Match n Engage.
+    - Share the second rule for Match n Engage, please.
+    - What's the second instruction for Match n Engage?
+    - I want to learn about the second rule of Match n Engage.
+    - Please provide the second rule for Match n Engage.
+    - Could you elaborate on the second guideline of Match n Engage?
+    - I'm looking for information on the second rule in Match n Engage.
+    - What's the second point in Match n Engage?
+    - Tell me about the second step in the Match n Engage process.
+    - I'd like to understand the second rule in the context of Match n Engage.
+    - Explain the second principle for Match n Engage.
+    - Share the second rule of Match n Engage with me.
+    - What does the second rule of Match n Engage entail?
+
+- intent: event_rule_3_Match_n_Engage
+  examples:
+    - What is the third rule for Match n Engage?
+    - Could you tell me the third rule in Match n Engage?
+    - Explain the third rule related to Match n Engage.
+    - What's the third guideline for Match n Engage?
+    - I'm curious about the third principle of Match n Engage.
+    - Please share the third rule for Match n Engage.
+    - Tell me about the third rule for Match n Engage.
+    - What's the third step in Match n Engage?
+    - Describe the third rule of Match n Engage.
+    - Give me details on the third rule for Match n Engage.
+    - What comes after the second rule in Match n Engage?
+    - I need to know the third rule for Match n Engage.
+    - Share the third principle for Match n Engage.
+    - Can you elaborate on the third rule in Match n Engage?
+    - I'm interested in learning the third rule for Match n Engage.
+    - What's the next rule in Match n Engage after the second?
+    - Provide information on the third rule of Match n Engage.
+    - How does the third rule apply to Match n Engage?
+    - I'd like to understand the third rule for Match n Engage.
+    - Clarify the third rule in Match n Engage.
+    - What's the third instruction in Match n Engage?
+
+- intent: event_rule_4_Match_n_Engage
+  examples: |
+    - What's the fourth rule for Match n Engage?
+    - Can you tell me the fourth rule of Match n Engage?
+    - Explain the fourth rule of Match n Engage.
+    - I need to know the fourth guideline for Match n Engage.
+    - Tell me about the fourth rule in Match n Engage.
+    - What's the fourth principle for Match n Engage?
+    - Share the fourth rule of Match n Engage with me.
+    - I'm curious about the fourth rule in Match n Engage.
+    - Describe the fourth rule of Match n Engage.
+    - Could you provide details on the fourth rule of Match n Engage?
+    - Please list the fourth rule for Match n Engage.
+    - Give me information about the fourth rule in Match n Engage.
+    - I want to learn about the fourth rule of Match n Engage.
+    - Enlighten me about the fourth rule for Match n Engage.
+    - What does the fourth rule in Match n Engage involve?
+    - I'm interested in the fourth rule for Match n Engage.
+    - Let's talk about the fourth rule of Match n Engage.
+    - Teach me the fourth rule of Match n Engage.
+    - Share insights on the fourth rule for Match n Engage.
+    - I'd like to understand the fourth rule of Match n Engage better.
+
+- intent: event_rule_5_Match_n_Engage
+  examples: |
+    - What's the fifth rule for Match n Engage?
+    - Can you tell me the fifth rule in Match n Engage?
+    - I need to know the fifth guideline for Match n Engage.
+    - Explain the fifth principle of Match n Engage.
+    - Please provide the fifth rule for Match n Engage.
+    - I'm looking for the fifth rule related to Match n Engage.
+    - Share the fifth guideline for Match n Engage.
+    - Tell me about rule number five in Match n Engage.
+    - What's the fifth regulation in Match n Engage?
+    - Inform me about the fifth rule concerning Match n Engage.
+    - I'm curious about the fifth rule for Match n Engage.
+    - Could you describe the fifth principle for Match n Engage?
+    - Describe the fifth guideline for Match n Engage.
+    - I want to understand the fifth rule in Match n Engage.
+    - Please elaborate on the fifth rule of Match n Engage.
+    - Provide the fifth rule's details for Match n Engage.
+    - Share information about the fifth rule in Match n Engage.
+    - What's the fifth instruction in Match n Engage?
+    - Tell me about the fifth policy for Match n Engage.
+    - Explain the fifth point in Match n Engage.
+
+- intent: event_rule_6_Match_n_Engage
+  examples: |
+    - What is the sixth rule for Match n Engage?
+    - Can you tell me the sixth rule in Match n Engage?
+    - Explain the sixth rule related to Match n Engage.
+    - I need to know the sixth rule for Match n Engage.
+    - Please provide the sixth rule concerning Match n Engage.
+    - Describe the rule number six in Match n Engage.
+    - Tell me about the sixth rule in Match n Engage.
+    - What's the rule six for Match n Engage?
+    - I'm looking for information on the sixth rule in Match n Engage.
+    - Share the sixth rule for Match n Engage.
+    - Give me details on the sixth rule related to Match n Engage.
+    - I want to learn about the rule number six for Match n Engage.
+    - Could you elaborate on the sixth rule for Match n Engage?
+    - What's the guideline in Match n Engage for rule six?
+    - Inform me about the sixth rule of Match n Engage.
+    - Let's discuss the sixth rule regarding Match n Engage.
+    - Provide insights on the sixth rule in Match n Engage.
+    - I'm curious about the sixth rule in Match n Engage.
+    - Share the information on the sixth rule for Match n Engage.
+    - What does rule six in Match n Engage entail?
+
+- intent: event_all_rule_Decept_of_Home
+  examples: |
+    - What are all the rules for the event Decept of Home?
+    - Tell me the complete list of rules for Decept of Home.
+    - Can you provide me with all the rules of Decept of Home?
+    - I need to know all the regulations for the Decept of Home event.
+    - Please list down all the rules for Decept of Home.
+    - Give me the full set of guidelines for the Decept of Home competition.
+    - I want to be aware of every rule for Decept of Home, can you help?
+    - Share all the rules and regulations for the Decept of Home event.
+    - Inform me about the event Decept of Home and its rules.
+    - What are the comprehensive rules for Decept of Home?
+    - Provide me with all the event Decept of Home rules.
+    - I'm looking for a detailed list of rules for Decept of Home.
+    - List all the rules that apply to the Decept of Home competition.
+    - Can you give me the extensive set of rules for Decept of Home?
+    - Tell me everything I need to know about the rules of Decept of Home.
+    - I want to understand every rule associated with Decept of Home.
+    - Share the complete rulebook for the event Decept of Home.
+    - I need to have a thorough understanding of Decept of Home rules.
+    - What's the entire list of rules for the Decept of Home event?
+    - Provide me with the full rule set for Decept of Home.
+
+- intent: event_rule_1_Decept_of_Home
+  examples: |
+    - What's the first rule for Decept of Home?
+    - Can you tell me the first rule related to Decept of Home?
+    - I'd like to know the initial rule for Decept of Home.
+    - Please share the first guideline for Decept of Home.
+    - What's the opening principle for Decept of Home?
+    - Give me the first rule of Decept of Home.
+    - Tell me the first step for Decept of Home.
+    - I'm curious about the first instruction for Decept of Home.
+    - What's the starting point for Decept of Home?
+    - Share the first rule of engagement for Decept of Home.
+    - Explain the first guideline for Decept of Home.
+    - I'm looking for the first rule regarding Decept of Home.
+    - Can you provide the first advice for Decept of Home?
+    - What's the very first thing to do in Decept of Home?
+    - I'd like to begin with the first rule of Decept of Home.
+    - Tell me the initial step for Decept of Home.
+    - Share the first directive for Decept of Home.
+    - What's the first thing I need to know about Decept of Home?
+    - Please elaborate on the first rule for Decept of Home.
+    - Can you give me the first point about Decept of Home?
+
+- intent: event_rule_2_Decept_of_Home
+  examples: |
+    - What is the second rule for Decept of Home?
+    - Please tell me the second rule of Decept of Home.
+    - I'd like to know the second rule in Decept of Home.
+    - Can you share the second guideline for Decept of Home?
+    - Explain the second rule for Decept of Home.
+    - Give me the second principle of Decept of Home.
+    - Tell me about the second rule in Decept of Home.
+    - What's the second step in Decept of Home?
+    - I'm interested in the second rule of Decept of Home.
+    - Share the second rule for Decept of Home, please.
+    - What's the second instruction for Decept of Home?
+    - I want to learn about the second rule of Decept of Home.
+    - Please provide the second rule for Decept of Home.
+    - Could you elaborate on the second guideline of Decept of Home?
+    - I'm looking for information on the second rule in Decept of Home.
+    - What's the second point in Decept of Home?
+    - Tell me about the second step in the Decept of Home process.
+    - I'd like to understand the second rule in the context of Decept of Home.
+    - Explain the second principle for Decept of Home.
+    - Share the second rule of Decept of Home with me.
+    - What does the second rule of Decept of Home entail?
+
+- intent: event_rule_3_Decept_of_Home
+  examples: |
+    - What is the third rule for Decept of Home?
+    - Could you tell me the third rule in Decept of Home?
+    - Explain the third rule related to Decept of Home.
+    - What's the third guideline for Decept of Home?
+    - I'm curious about the third principle of Decept of Home.
+    - Please share the third rule for Decept of Home.
+    - Tell me about the third rule for Decept of Home.
+    - What's the third step in Decept of Home?
+    - Describe the third rule of Decept of Home.
+    - Give me details on the third rule for Decept of Home.
+    - What comes after the second rule in Decept of Home?
+    - I need to know the third rule for Decept of Home.
+    - Share the third principle for Decept of Home.
+    - Can you elaborate on the third rule in Decept of Home?
+    - I'm interested in learning the third rule for Decept of Home.
+    - What's the next rule in Decept of Home after the second?
+    - Provide information on the third rule of Decept of Home.
+    - How does the third rule apply to Decept of Home?
+    - I'd like to understand the third rule for Decept of Home.
+    - Clarify the third rule in Decept of Home.
+    - What's the third instruction in Decept of Home?
+
+- intent: event_rule_4_Decept_of_Home
+  examples: |
+    - What's the fourth rule for Decept of Home?
+    - Can you tell me the fourth rule of Decept of Home?
+    - Explain the fourth rule of Decept of Home.
+    - I need to know the fourth guideline for Decept of Home.
+    - Tell me about the fourth rule in Decept of Home.
+    - What's the fourth principle for Decept of Home?
+    - Share the fourth rule of Decept of Home with me.
+    - I'm curious about the fourth rule in Decept of Home.
+    - Describe the fourth rule of Decept of Home.
+    - Could you provide details on the fourth rule of Decept of Home?
+    - Please list the fourth rule for Decept of Home.
+    - Give me information about the fourth rule of Decept of Home.
+    - I want to learn about the fourth rule of Decept of Home.
+    - Enlighten me about the fourth rule for Decept of Home.
+    - What does the fourth rule in Decept of Home involve?
+    - I'm interested in the fourth rule for Decept of Home.
+    - Let's talk about the fourth rule of Decept of Home.
+    - Teach me the fourth rule of Decept of Home.
+    - Share insights on the fourth rule for Decept of Home.
+    - I'd like to understand the fourth rule of Decept of Home better.
+
+- intent: event_rule_5_Decept_of_Home
+  examples: |
+    - What's the fifth rule for Decept of Home?
+    - Can you tell me the fifth rule in Decept of Home?
+    - I need to know the fifth guideline for Decept of Home.
+    - Explain the fifth principle of Decept of Home.
+    - Please provide the fifth rule for Decept of Home.
+    - I'm looking for the fifth rule related to Decept of Home.
+    - Share the fifth guideline for Decept of Home.
+    - Tell me about rule number five in Decept of Home.
+    - What's the fifth regulation in Decept of Home?
+    - Inform me about the fifth rule concerning Decept of Home.
+    - I'm curious about the fifth rule for Decept of Home.
+    - Could you describe the fifth principle for Decept of Home?
+    - Describe the fifth guideline for Decept of Home.
+    - I want to understand the fifth rule in Decept of Home.
+    - Please elaborate on the fifth rule of Decept of Home.
+    - Provide the fifth rule's details for Decept of Home.
+    - Share information about the fifth rule in Decept of Home.
+    - What's the fifth instruction in Decept of Home?
+    - Tell me about the fifth policy for Decept of Home.
+    - Explain the fifth point in Decept of Home.
+
+- intent: event_rule_6_Decept_of_Home
+  examples: |
+    - What is the sixth rule for Decept of Home?
+    - Can you tell me the sixth rule in Decept of Home?
+    - Explain the sixth rule related to Decept of Home.
+    - I need to know the sixth rule for Decept of Home.
+    - Please provide the sixth rule concerning Decept of Home.
+    - Describe the rule number six in Decept of Home.
+    - Tell me about the sixth rule in Decept of Home.
+    - What's the rule six for Decept of Home?
+    - I'm looking for information on the sixth rule in Decept of Home.
+    - Share the sixth rule for Decept of Home.
+    - Give me details on the sixth rule related to Decept of Home.
+    - I want to learn about the rule number six for Decept of Home.
+    - Could you elaborate on the sixth rule for Decept of Home?
+    - What's the guideline in Decept of Home for rule six?
+    - Inform me about the sixth rule of Decept of Home.
+    - Let's discuss the sixth rule regarding Decept of Home.
+    - Provide insights on the sixth rule in Decept of Home.
+    - I'm curious about the sixth rule in Decept of Home.
+    - Share the information on the sixth rule for Decept of Home.
+    - What does rule six in Decept of Home entail?
+
+- intent: event_all_rule_Meep_Mop
+  examples: |
+    - What are all the rules for the event Meep Mop?
+    - Tell me the complete list of rules for Meep Mop.
+    - Can you provide me with all the rules of Meep Mop?
+    - I need to know all the regulations for the Meep Mop event.
+    - Please list down all the rules for Meep Mop.
+    - Give me the full set of guidelines for the Meep Mop competition.
+    - I want to be aware of every rule for Meep Mop, can you help?
+    - Share all the rules and regulations for the Meep Mop event.
+    - Inform me about the event Meep Mop and its rules.
+    - What are the comprehensive rules for Meep Mop?
+    - Provide me with all the event Meep Mop rules.
+    - I'm looking for a detailed list of rules for Meep Mop.
+    - List all the rules that apply to the Meep Mop competition.
+    - Can you give me the extensive set of rules for Meep Mop?
+    - Tell me everything I need to know about the rules of Meep Mop.
+    - I want to understand every rule associated with Meep Mop.
+    - Share the complete rulebook for the event Meep Mop.
+    - I need to have a thorough understanding of Meep Mop rules.
+    - What's the entire list of rules for the Meep Mop event?
+    - Provide me with the full rule set for Meep Mop.
+
+- intent: event_rule_1_Meep_Mop
+  examples: |
+    - What's the first rule for Meep Mop?
+    - Can you tell me the first rule related to Meep Mop?
+    - I'd like to know the initial rule for Meep Mop.
+    - Please share the first guideline for Meep Mop.
+    - What's the opening principle for Meep Mop?
+    - Give me the first rule of Meep Mop.
+    - Tell me the first step for Meep Mop.
+    - I'm curious about the first instruction for Meep Mop.
+    - What's the starting point for Meep Mop?
+    - Share the first rule of engagement for Meep Mop.
+    - Explain the first guideline for Meep Mop.
+    - I'm looking for the first rule regarding Meep Mop.
+    - Can you provide the first advice for Meep Mop?
+    - What's the very first thing to do in Meep Mop?
+    - I'd like to begin with the first rule of Meep Mop.
+    - Tell me the initial step for Meep Mop.
+    - Share the first directive for Meep Mop.
+    - What's the first thing I need to know about Meep Mop?
+    - Please elaborate on the first rule for Meep Mop.
+    - Can you give me the first point about Meep Mop?
+
+- intent: event_rule_2_Meep_Mop
+  examples: |
+    - What is the second rule for Meep Mop?
+    - Please tell me the second rule of Meep Mop.
+    - I'd like to know the second rule in Meep Mop.
+    - Can you share the second guideline for Meep Mop?
+    - Explain the second rule for Meep Mop.
+    - Give me the second principle of Meep Mop.
+    - Tell me about the second rule in Meep Mop.
+    - What's the second step in Meep Mop?
+    - I'm interested in the second rule of Meep Mop.
+    - Share the second rule for Meep Mop, please.
+    - What's the second instruction for Meep Mop?
+    - I want to learn about the second rule of Meep Mop.
+    - Please provide the second rule for Meep Mop.
+    - Could you elaborate on the second guideline of Meep Mop?
+    - I'm looking for information on the second rule in Meep Mop.
+    - What's the second point in Meep Mop?
+    - Tell me about the second step in the Meep Mop process.
+    - I'd like to understand the second rule in the context of Meep Mop.
+    - Explain the second principle for Meep Mop.
+    - Share the second rule of Meep Mop with me.
+    - What does the second rule of Meep Mop entail?
+
+- intent: event_rule_3_Meep_Mop
+  examples: |
+    - What is the third rule for Meep Mop?
+    - Could you tell me the third rule in Meep Mop?
+    - Explain the third rule related to Meep Mop.
+    - What's the third guideline for Meep Mop?
+    - I'm curious about the third principle of Meep Mop.
+    - Please share the third rule for Meep Mop.
+    - Tell me about the third rule for Meep Mop.
+    - What's the third step in Meep Mop?
+    - Describe the third rule of Meep Mop.
+    - Give me details on the third rule for Meep Mop.
+    - What comes after the second rule in Meep Mop?
+    - I need to know the third rule for Meep Mop.
+    - Share the third principle for Meep Mop.
+    - Can you elaborate on the third rule in Meep Mop?
+    - I'm interested in learning the third rule for Meep Mop.
+    - What's the next rule in Meep Mop after the second?
+    - Provide information on the third rule of Meep Mop.
+    - How does the third rule apply to Meep Mop?
+    - I'd like to understand the third rule for Meep Mop.
+    - Clarify the third rule in Meep Mop.
+    - What's the third instruction in Meep Mop?
+
+- intent: event_rule_4_Meep_Mop
+  examples: |
+    - What's the fourth rule for Meep Mop?
+    - Can you tell me the fourth rule of Meep Mop?
+    - Explain the fourth rule of Meep Mop.
+    - I need to know the fourth guideline for Meep Mop.
+    - Tell me about the fourth rule in Meep Mop.
+    - What's the fourth principle for Meep Mop?
+    - Share the fourth rule of Meep Mop with me.
+    - I'm curious about the fourth rule in Meep Mop.
+    - Describe the fourth rule of Meep Mop.
+    - Could you provide details on the fourth rule of Meep Mop?
+    - Please list the fourth rule for Meep Mop.
+    - Give me information about the fourth rule in Meep Mop.
+    - I want to learn about the fourth rule of Meep Mop.
+    - Enlighten me about the fourth rule for Meep Mop.
+    - What does the fourth rule in Meep Mop involve?
+    - I'm interested in the fourth rule for Meep Mop.
+    - Let's talk about the fourth rule of Meep Mop.
+    - Teach me the fourth rule of Meep Mop.
+    - Share insights on the fourth rule for Meep Mop.
+    - I'd like to understand the fourth rule of Meep Mop better.
+
+- intent: event_rule_5_Meep_Mop
+  examples: |
+    - What's the fifth rule for Meep Mop?
+    - Can you tell me the fifth rule in Meep Mop?
+    - I need to know the fifth guideline for Meep Mop.
+    - Explain the fifth principle of Meep Mop.
+    - Please provide the fifth rule for Meep Mop.
+    - I'm looking for the fifth rule related to Meep Mop.
+    - Share the fifth guideline for Meep Mop.
+    - Tell me about rule number five in Meep Mop.
+    - What's the fifth regulation in Meep Mop?
+    - Inform me about the fifth rule concerning Meep Mop.
+    - I'm curious about the fifth rule for Meep Mop.
+    - Could you describe the fifth principle for Meep Mop?
+    - Describe the fifth guideline for Meep Mop.
+    - I want to understand the fifth rule in Meep Mop.
+    - Please elaborate on the fifth rule of Meep Mop.
+    - Provide the fifth rule's details for Meep Mop.
+    - Share information about the fifth rule in Meep Mop.
+    - What's the fifth instruction in Meep Mop?
+    - Tell me about the fifth policy for Meep Mop.
+    - Explain the fifth point in Meep Mop.
+
+- intent: event_rule_6_Meep_Mop
+  examples: |
+    - What is the sixth rule for Meep Mop?
+    - Can you tell me the sixth rule in Meep Mop?
+    - Explain the sixth rule related to Meep Mop.
+    - I need to know the sixth rule for Meep Mop.
+    - Please provide the sixth rule concerning Meep Mop.
+    - Describe the rule number six in Meep Mop.
+    - Tell me about the sixth rule in Meep Mop.
+    - What's the rule six for Meep Mop?
+    - I'm looking for information on the sixth rule in Meep Mop.
+    - Share the sixth rule for Meep Mop.
+    - Give me details on the sixth rule related to Meep Mop.
+    - I want to learn about the rule number six for Meep Mop.
+    - Could you elaborate on the sixth rule for Meep Mop?
+    - What's the guideline in Meep Mop for rule six?
+    - Inform me about the sixth rule of Meep Mop.
+    - Let's discuss the sixth rule regarding Meep Mop.
+    - Provide insights on the sixth rule in Meep Mop.
+    - I'm curious about the sixth rule in Meep Mop.
+    - Share the information on the sixth rule for Meep Mop.
+    - What does rule six in Meep Mop entail?
+
+- intent: event_sample_arena_Bumble_See
+  examples: |
+    - Show me a sample arena for Bumble See.
+    - Can you provide an example arena for Bumble See?
+    - I'd like to see a sample arena for Bumble See.
+    - Share a Bumble See arena sample with me.
+    - What does a typical Bumble See arena look like?
+    - Display a sample arena for Bumble See.
+    - I want to visualize a Bumble See arena example.
+    - Could you show me an arena sample for Bumble See?
+    - Describe a sample arena for Bumble See.
+    - Give me an idea of a Bumble See arena with an example.
+    - Provide a Bumble See arena demonstration.
+    - Let me see a Bumble See arena in a sample.
+    - What's an example of a Bumble See arena?
+    - Show me a Bumble See arena for reference.
+    - Share a Bumble See arena example, please.
+    - I'd like to understand the Bumble See arena with a sample.
+    - Can you give me a sample Bumble See arena layout?
+    - I'm curious about the Bumble See arena, show me an example.
+    - Provide a sample arena illustration for Bumble See.
+    - I want to know how a Bumble See arena typically looks.
+    - Share an example of a Bumble See arena design.
+
+- intent: event_sample_arena_Decept_of_Home
+  examples: |
+    - Show me a sample arena for Decept of Home.
+    - Can you provide an example arena for Decept of Home?
+    - I'd like to see a sample arena for Decept of Home.
+    - Share a Decept of Home arena sample with me.
+    - What does a typical Decept of Home arena look like?
+    - Display a sample arena for Decept of Home.
+    - I want to visualize a Decept of Home arena example.
+    - Could you show me an arena sample for Decept of Home?
+    - Describe a sample arena for Decept of Home.
+    - Give me an idea of a Decept of Home arena with an example.
+    - Provide a Decept of Home arena demonstration.
+    - Let me see a Decept of Home arena in a sample.
+    - What's an example of a Decept of Home arena?
+    - Show me a Decept of Home arena for reference.
+    - Share a Decept of Home arena example, please.
+    - I'd like to understand the Decept of Home arena with a sample.
+    - Can you give me a sample Decept of Home arena layout?
+    - I'm curious about the Decept of Home arena, show me an example.
+    - Provide a sample arena illustration for Decept of Home.
+    - I want to know how a Decept of Home arena typically looks.
+    - Share an example of a Decept of Home arena design.
+
+- intent: event_sample_arena_Match_n_Engage
+  examples: |
+    - Show me a sample arena for Match n Engage.
+    - Can you provide an example arena for Match n Engage?
+    - I'd like to see a sample arena for Match n Engage.
+    - Share a Match n Engage arena sample with me.
+    - What does a typical Match n Engage arena look like?
+    - Display a sample arena for Match n Engage.
+    - I want to visualize a Match n Engage arena example.
+    - Could you show me an arena sample for Match n Engage?
+    - Describe a sample arena for Match n Engage.
+    - Give me an idea of a Match n Engage arena with an example.
+    - Provide a Match n Engage arena demonstration.
+    - Let me see a Match n Engage arena in a sample.
+    - What's an example of a Match n Engage arena?
+    - Show me a Match n Engage arena for reference.
+    - Share a Match n Engage arena example, please.
+    - I'd like to understand the Match n Engage arena with a sample.
+    - Can you give me a sample Match n Engage arena layout?
+    - I'm curious about the Match n Engage arena, show me an example.
+    - Provide a sample arena illustration for Match n Engage.
+    - I want to know how a Match n Engage arena typically looks.
+    - Share an example of a Match n Engage arena design.
+
+- intent: event_sample_arena_Meep_Mop
+  examples: |
+    - Show me a sample arena for Meep Mop.
+    - Can you provide an example arena for Meep Mop?
+    - I'd like to see a sample arena for Meep Mop.
+    - Share a Meep Mop arena sample with me.
+    - What does a typical Meep Mop arena look like?
+    - Display a sample arena for Meep Mop.
+    - I want to visualize a Meep Mop arena example.
+    - Could you show me an arena sample for Meep Mop?
+    - Describe a sample arena for Meep Mop.
+    - Give me an idea of a Meep Mop arena with an example.
+    - Provide a Meep Mop arena demonstration.
+    - Let me see a Meep Mop arena in a sample.
+    - What's an example of a Meep Mop arena?
+    - Show me a Meep Mop arena for reference.
+    - Share a Meep Mop arena example, please.
+    - I'd like to understand the Meep Mop arena with a sample.
+    - Can you give me a sample Meep Mop arena layout?
+    - I'm curious about the Meep Mop arena, show me an example.
+    - Provide a sample arena illustration for Meep Mop.
+    - I want to know how a Meep Mop arena typically looks.
+    - Share an example of a Meep Mop arena design.
+
+- intent: event_description_sample_arena_Bumble_See
+  examples: |
+    - What's the sample arena like for Bumble See?
+    - Describe the sample arena in Bumble See.
+    - Tell me about the arena for Bumble See.
+    - Explain the sample arena setup for Bumble See.
+    - What can you tell me about the arena in Bumble See?
+    - Provide details about the Bumble See sample arena.
+    - I want to learn more about the sample arena in Bumble See.
+    - Share information regarding the arena for Bumble See.
+    - How is the sample arena structured in Bumble See?
+    - Tell me what I need to know about Bumble See's sample arena.
+    - Describe the setup of the sample arena in Bumble See.
+    - Can you give me insights into Bumble See's arena?
+    - I'm curious about the sample arena for Bumble See.
+    - Explain the features of the sample arena in Bumble See.
+    - What's unique about the sample arena in Bumble See?
+    - Share details about Bumble See's arena setup.
+    - Tell me about the Bumble See sample arena's design.
+    - What should I expect from Bumble See's sample arena?
+    - Describe the characteristics of the sample arena for Bumble See.
+    - Please provide information on Bumble See's arena layout.
+
+- intent: event_description_sample_arena_Decept_of_Home
+  examples: |
+    - What's the sample arena like for Decept of Home?
+    - Describe the sample arena in Decept of Home.
+    - Tell me about the arena for Decept of Home.
+    - Explain the sample arena setup for Decept of Home.
+    - What can you tell me about the arena in Decept of Home?
+    - Provide details about the Decept of Home sample arena.
+    - I want to learn more about the sample arena in Decept of Home.
+    - Share information regarding the arena for Decept of Home.
+    - How is the sample arena structured in Decept of Home?
+    - Tell me what I need to know about Decept of Home's sample arena.
+    - Describe the setup of the sample arena in Decept of Home.
+    - Can you give me insights into Decept of Home's arena?
+    - I'm curious about the sample arena for Decept of Home.
+    - Explain the features of the sample arena in Decept of Home.
+    - What's unique about the sample arena in Decept of Home?
+    - Share details about Decept of Home's arena setup.
+    - Tell me about the Decept of Home sample arena's design.
+    - What should I expect from Decept of Home's sample arena?
+    - Describe the characteristics of the sample arena for Decept of Home.
+    - Please provide information on Decept of Home's arena layout.
+
+- intent: event_description_sample_arena_Match_n_Engage
+  examples: |
+    - What's the sample arena like for Match n Engage?
+    - Describe the sample arena in Match n Engage.
+    - Tell me about the arena for Match n Engage.
+    - Explain the sample arena setup for Match n Engage.
+    - What can you tell me about the arena in Match n Engage?
+    - Provide details about the Match n Engage sample arena.
+    - I want to learn more about the sample arena in Match n Engage.
+    - Share information regarding the arena for Match n Engage.
+    - How is the sample arena structured in Match n Engage?
+    - Tell me what I need to know about Match n Engage's sample arena.
+    - Describe the setup of the sample arena in Match n Engage.
+    - Can you give me insights into Match n Engage's arena?
+    - I'm curious about the sample arena for Match n Engage.
+    - Explain the features of the sample arena in Match n Engage.
+    - What's unique about the sample arena in Match n Engage?
+    - Share details about Match n Engage's arena setup.
+    - Tell me about the Match n Engage sample arena's design.
+    - What should I expect from Match n Engage's sample arena?
+    - Describe the characteristics of the sample arena for Match n Engage.
+    - Please provide information on Match n Engage's arena layout.
+
+- intent: event_description_sample_arena_Meep_Mop
+  examples: |
+    - What's the sample arena like for Meep Mop?
+    - Describe the sample arena in Meep Mop.
+    - Tell me about the arena for Meep Mop.
+    - Explain the sample arena setup for Meep Mop.
+    - What can you tell me about the arena in Meep Mop?
+    - Provide details about the Meep Mop sample arena.
+    - I want to learn more about the sample arena in Meep Mop.
+    - Share information regarding the arena for Meep Mop.
+    - How is the sample arena structured in Meep Mop?
+    - Tell me what I need to know about Meep Mop's sample arena.
+    - Describe the setup of the sample arena in Meep Mop.
+    - Can you give me insights into Meep Mop's arena?
+    - I'm curious about the sample arena for Meep Mop.
+    - Explain the features of the sample arena in Meep Mop.
+    - What's unique about the sample arena in Meep Mop?
+    - Share details about Meep Mop's arena setup.
+    - Tell me about the Meep Mop sample arena's design.
+    - What should I expect from Meep Mop's sample arena?
+    - Describe the characteristics
+
