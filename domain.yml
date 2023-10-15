@@ -44,6 +44,42 @@ intents:
   - event_contact_details_Meep_Mop
   - event_image_Meep_Mop
   - event_organizer_Meep_Mop
+  - event_all_rule_Bumble_See
+  - event_rule_1_Bumble_See
+  - event_rule_2_Bumble_See
+  - event_rule_3_Bumble_See
+  - event_rule_4_Bumble_See
+  - event_rule_5_Bumble_See
+  - event_rule_6_Bumble_See
+  - event_all_rule_Decept_of_Home
+  - event_rule_1_Decept_of_Home
+  - event_rule_2_Decept_of_Home
+  - event_rule_3_Decept_of_Home
+  - event_rule_4_Decept_of_Home
+  - event_rule_5_Decept_of_Home
+  - event_rule_6_Decept_of_Home
+  - event_all_rule_Match_n_Engage
+  - event_rule_1_Match_n_Engage
+  - event_rule_2_Match_n_Engage
+  - event_rule_3_Match_n_Engage
+  - event_rule_4_Match_n_Engage
+  - event_rule_5_Match_n_Engage
+  - event_rule_6_Match_n_Engage
+  - event_all_rule_Meep_Mop
+  - event_rule_1_Meep_Mop
+  - event_rule_2_Meep_Mop
+  - event_rule_3_Meep_Mop
+  - event_rule_4_Meep_Mop
+  - event_rule_5_Meep_Mop
+  - event_rule_6_Meep_Mop
+  - event_sample_arena_Bumble_See
+  - event_sample_arena_Decept_of_Home
+  - event_sample_arena_Match_n_Engage
+  - event_sample_arena_Meep_Mop
+  - event_description_sample_arena_Bumble_See
+  - event_description_sample_arena_Decept_of_Home
+  - event_description_sample_arena_Match_n_Engage
+  - event_description_sample_arena_Meep_Mop
 
 responses:
   utter_Bot_Rush_organizer:
