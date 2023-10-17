@@ -82,6 +82,59 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+  utter_Match_n_Engage_sample_arena:
+  - text: "No"
+  
+  utter_Meep_Mop_sample_arena:
+    - text: "No"
+    
+  utter_Decept_of_Home_sample_arena:
+   - text: "No"
+   
+  utter_Bumble_See_sample_arena:
+   - text: "No"
+   
+  utter_Meep_Mop_image:
+    - text: "No"
+
+  utter_Meep_Mop_contact_details:
+    - text: |
+        EVENT COORDINATOR
+        Shashank Singh
+        9351648062
+        shashanksinghranu@gmail.com
+        Khaliq Hussain
+        7839978981
+        khaliqrocks786@gmail.com
+        
+        DEPARTMENT COORDINATOR
+        Prakhar Agarwal
+        8004730219
+        prakhar.20200035@mnnit.ac.in
+        Gautam Kumar
+        8987381926
+        gautam.20203059@mnnit.ac.in
+
+   
+  utter_Meep_Mop_venue:
+  - text: "No"
+  
+  utter_Meep_Mop_Registration:
+  - text: "No"
+ 
+  utter_Meep_Mop_subevents:
+  - text: "No"
+
+  utter_Meep_Mop:
+   - text: |
+       1. This is a team event with a maximum of 4 members and a minimum of 2.Team members can be from any branch..
+       2. You have to build a working bot for any one problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
+       3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
+       4. The decision of the judges will be final and binding. Rules and Regulations
+       5. This is a cumulative score event. So you need to perform well in all rounds to win.
+       6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part of the project is found copied the team will be disqualified immediately 
+       7. Do not assume anything in the PS by yourself. Contact us to resolve any discrepancies.
+     
   utter_Match_n_Engage_image:
   - text: "No"
   
@@ -96,13 +149,13 @@ responses:
   
   utter_Match_n_Engage:
    - text: |
-     1. This is a team event with a maximum of 4 members and a minimum of 2. Team members can be from any branch.
-     2. You have to build a working bot for any one problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
-     3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
-     4. The decision of the judges will be final and binding. Rules and Regulations
-     5. This is a cumulative score event. So you need to perform well in all rounds to win.
-     6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part  of the project is found copied the team will be disqualified immediately.
-     7. Do not assume anything in the PS by yourself. Contact us to resolve any discrepancies.
+        1. This is a team event with a maximum of 4 members and a minimum of 2. Team members can be from any branch.
+        2. You have to build a working bot for any one problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
+        3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
+        4. The decision of the judges will be final and binding. Rules and Regulations
+        5. This is a cumulative score event. So you need to perform well in all rounds to win.
+        6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part  of the project is found copied the team will be disqualified immediately.
+        7. Do not assume anything in the PS by yourself. Contact us to resolve any discrepancies.
      
   utter_Decept_of_Home_image:
   - text: "No"
@@ -118,19 +171,19 @@ responses:
   
   utter_Decept_of_Home:
   - text: |
-    1. This is a team event with a maximum of 4 members and a minimum of 2. Team members can be from any branch.
+        1. This is a team event with a maximum of 4 members and a minimum of 2. Team members can be from any branch.
     
-    2. You have to build a working bot for anyone problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
+        2. You have to build a working bot for anyone problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
     
-    3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
+        3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
     
-    4. The decision of the judges will be final and binding. Rules and Regulations
+        4. The decision of the judges will be final and binding. Rules and Regulations
     
-    5. This is a cumulative score event. So you need to perform well in all roundsto win.
+        5. This is a cumulative score event. So you need to perform well in all roundsto win.
     
-    6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part of the project is found copied the team will be disqualified immediately.
+        6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part of the project is found copied the team will be disqualified immediately.
 
-    7. Do not qssume anything in the PS by yourself. Contact us to resolve any discrepancies.
+        7. Do not qssume anything in the PS by yourself. Contact us to resolve any discrepancies.
     
   utter_Bumble_See_image:
   - text: "No"
@@ -146,73 +199,73 @@ responses:
   
   utter_Bumble_See:
   - text: |
-    1. This is a team event with a maximum of 4 members and a minimum of 2.Team members can be from any branch.
+        1. This is a team event with a maximum of 4 members and a minimum of 2.Team members can be from any branch.
 
-    2. You have to build a working bot for anyone problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
+        2. You have to build a working bot for anyone problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
     
-   3. You’ll be required to submit an abstract before submitting a
-   solution, in which you will describe the approach to the problem and list all the hardware used.
+        3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
 
-   4. The decision of the judges will be final and binding.
+        4. The decision of the judges will be final and binding.
    
-   5. This is a cumulative score event. So you need to perform well in all rounds to win.
-   6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part of the project is found copied the team will be disqualified immediately.
+        5. This is a cumulative score event. So you need to perform well in all rounds to win.
+     
+        6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part of the project is found copied the team will be disqualified immediately.
 
-   7. Do not assume anything in the PS by yourself. Contact us to resolve any discrepancies.
+        7. Do not assume anything in the PS by yourself. Contact us to resolve any discrepancies.
    
   utter_Match_n_Engage_contact_details:
   - text: |
-    EVENT COORDINATOR
-    Shashank Singh
-    9351648062
-    shashanksinghranu@gmail.com
-    Shreya Gupta
-    shreya.20208119@mnnit.ac.in
+         EVENT COORDINATOR
+         Shashank Singh
+         9351648062
+         shashanksinghranu@gmail.com
+         Shreya Gupta
+         shreya.20208119@mnnit.ac.in
     
-    DEPARTMENT COORDIANTOR
-    Prakhar Agarwal
-    8004730219
-    prakhar.20200035@mnnit.ac.in
-    Gautam Kumar
-    8987381926
-    gautam.20203059@mnnit.ac.in
+         DEPARTMENT COORDIANTOR
+         Prakhar Agarwal
+         8004730219
+         prakhar.20200035@mnnit.ac.in
+         Gautam Kumar
+         8987381926
+         gautam.20203059@mnnit.ac.in
     
   utter_Decept_of_Home_contact_details:
   - text: |
-    EVENT COORDINATOR
-    Shashank Singh
-    9351648062
-    shashanksinghranu@gmail.com
-    Bipul Karna
-    6394027044
-    bipul.20201037@mnnit.ac.in
+          EVENT COORDINATOR
+          Shashank Singh
+          9351648062
+          shashanksinghranu@gmail.com
+          Bipul Karna
+          6394027044
+          bipul.20201037@mnnit.ac.in
     
-    DEPARTMENT COORDIANTOR
-    Prakhar Agarwal
-    8004730219
-    prakhar.20200035@mnnit.ac.in
-    Gautam Kumar
-    8987381926
-    gautam.20203059@mnnit.ac.in
+          DEPARTMENT COORDIANTOR
+          Prakhar Agarwal
+          8004730219
+          prakhar.20200035@mnnit.ac.in
+          Gautam Kumar
+          8987381926
+          gautam.20203059@mnnit.ac.in
     
   utter_Bumble_See_contact_details:
   - text: |
-    EVENT COORDINATOR
-    Aditya Jain
-    9335780943
-    aditya.20203010@mnnit.ac.in
-    Shashank Singh
-    9351648062
-    shashanksinghranu@gmail.com
+          EVENT COORDINATOR
+          Aditya Jain
+          9335780943
+          aditya.20203010@mnnit.ac.in
+          Shashank Singh
+          9351648062
+          shashanksinghranu@gmail.com
 
-    DEPARTMENT COORDIANTOR
-    Prakhar Agarwal
-    8004730219
-    prakhar.20200035@mnnit.ac.in
-    Gautam Kumar
-    8987381926
-    gautam.20203059@mnnit.ac.in
-    
+          DEPARTMENT COORDIANTOR
+          Prakhar Agarwal
+          8004730219
+          prakhar.20200035@mnnit.ac.in
+          Gautam Kumar
+          8987381926
+          gautam.20203059@mnnit.ac.in
+          
   utter_rule_6_Meep_Mop:
   - text: "6. Let your creativity run free and submit your idea, then we will let you know if it is worth creating or not."
   
@@ -245,7 +298,7 @@ responses:
   
   utter_rule_2_Match_n_Engage:
   - text: |
-   2. Final Round:
+     2. Final Round:
        Bots selected for the final round should have Arduino and ESP01 Code Completed.
        The bot should be fully operated through the cell phone(app).
        
@@ -304,47 +357,47 @@ responses:
 
   utter_all_rule_Meep_Mop:
   - text: |
-    1. Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply.
-    2. Your bot must perform some task that makes the job of humans easy.
-    3. The task performed by your bot must be automated, which means that after you start your bot once, you cannot make any changes in it, and it should complete the specified task on its own.
-    4. You will be provided a maximum number of 3 attempts to complete the predefined task.
-    5. Prefer creating a moving bot rather than a bot with no wheels.
-    6. Let your creativity run free and submit your idea, then we will let you know if it is worth creating or not.
+         1. Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply.
+         2. Your bot must perform some task that makes the job of humans easy.
+         3. The task performed by your bot must be automated, which means that after you start your bot once, you cannot make any changes in it, and it should complete the specified task on its own.
+         4. You will be provided a maximum number of 3 attempts to complete the predefined task.
+         5. Prefer creating a moving bot rather than a bot with no wheels.
+         6. Let your creativity run free and submit your idea, then we will let you know if it is worth creating or not.
 
   utter_all_rule_Match_n_Engage:
   - text: |
-    1. Bot Review & Preliminary Round:
-       The event coordinators would review the project to gauge the progress. The Arduino Code should be completed.
+         1. Bot Review & Preliminary Round:
+          The event coordinators would review the project to gauge the progress. The Arduino Code should be completed.
 
-    2. Final Round:
-       Bots selected for the final round should have Arduino and ESP01 Code Completed.
-       The bot should be fully operated through the cell phone(app).
+         2. Final Round:
+          Bots selected for the final round should have Arduino and ESP01 Code Completed.
+           The bot should be fully operated through the cell phone(app).
 
-    Judging Criteria
-    a. Compact Code [+200 points]
-    b. Smooth Turn (Relative) [+300 points]
-    c. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
+          Judging Criteria
+         a. Compact Code [+200 points]
+         b. Smooth Turn (Relative) [+300 points]
+         c. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
 
 
   utter_all_rule_Bumble_See:
   - text: |
-    Judges' decisions will be final and binding to all.
-    You will be provided with 220V 50HZ AC power. Your Code should not be hard-coded.
-    Organizers reserve the right to change any rules or make new changes.
-    Each team is allowed one trial run in both rounds to calibrate their sensors. No team is allowed to make changes in their code during or after the trial run.
-    Stages:
-    - Preliminary round (Line Following):
-        The bot should be able to follow the black lines at this stage and complete the first part of the arena.
-    - Final round (Wall Following):
-        The bot should be able to follow the walls at this stage and complete the whole arena.
-    Stage 1:
-    - a. Clearing checkpoint 1 [+300 points]
-    - b. Clearing checkpoint 2 [+500 points]
-    - c. Clearing checkpoint 3 [+600 points]
-    - d. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
-    Stage 2(Misc):
-    - a. Same as stage 1.
-    - b. Reaching the end [+1000 points]
+         Judges' decisions will be final and binding to all.
+         You will be provided with 220V 50HZ AC power. Your Code should not be hard-coded.
+         Organizers reserve the right to change any rules or make new changes.
+         Each team is allowed one trial run in both rounds to calibrate their sensors. No team is allowed to make changes in their code during or after the trial run.
+         Stages:
+         - Preliminary round (Line Following):
+           The bot should be able to follow the black lines at this stage and complete the first part of the arena.
+          - Final round (Wall Following):
+          The bot should be able to follow the walls at this stage and complete the whole arena.
+          Stage 1:
+         - a. Clearing checkpoint 1 [+300 points]
+         - b. Clearing checkpoint 2 [+500 points]
+         - c. Clearing checkpoint 3 [+600 points]
+         - d. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
+          Stage 2(Misc):
+         - a. Same as stage 1.
+         - b. Reaching the end [+1000 points]
 
   utter_Bot_Rush_organizer:
   - text: "Bot Rush is being organized by Robotics Club MNNIT"
