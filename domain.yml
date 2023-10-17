@@ -82,6 +82,60 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+  
+  utter_Match_n_Engage_contact_details:
+  - text: |
+    EVENT COORDINATOR
+    Shashank Singh
+    9351648062
+    shashanksinghranu@gmail.com
+    Shreya Gupta
+    shreya.20208119@mnnit.ac.in
+    
+    DEPARTMENT COORDIANTOR
+    Prakhar Agarwal
+    8004730219
+    prakhar.20200035@mnnit.ac.in
+    Gautam Kumar
+    8987381926
+    gautam.20203059@mnnit.ac.in
+    
+  utter_Decept_of_Home_contact_details:
+  - text: |
+    EVENT COORDINATOR
+    Shashank Singh
+    9351648062
+    shashanksinghranu@gmail.com
+    Bipul Karna
+    6394027044
+    bipul.20201037@mnnit.ac.in
+    
+    DEPARTMENT COORDIANTOR
+    Prakhar Agarwal
+    8004730219
+    prakhar.20200035@mnnit.ac.in
+    Gautam Kumar
+    8987381926
+    gautam.20203059@mnnit.ac.in
+    
+  utter_Bumble_See_contact_details:
+  - text: |
+    EVENT COORDINATOR
+    Aditya Jain
+    9335780943
+    aditya.20203010@mnnit.ac.in
+    Shashank Singh
+    9351648062
+    shashanksinghranu@gmail.com
+
+    DEPARTMENT COORDIANTOR
+    Prakhar Agarwal
+    8004730219
+    prakhar.20200035@mnnit.ac.in
+    Gautam Kumar
+    8987381926
+    gautam.20203059@mnnit.ac.in
+    
   utter_rule_6_Meep_Mop:
   - text: "6. Let your creativity run free and submit your idea, then we will let you know if it is worth creating or not."
   
