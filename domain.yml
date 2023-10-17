@@ -82,22 +82,26 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+  utter_rule_2_Bumble_See:
+  - text: |
+     You will be provided with 220V 50HZ AC power. Your Code should not be hard-coded.
+     
   utter_rule_1_Bumble_See:
   - text: |
     Judges' decisions will be final and binding to all.
 
   utter_all_rule_Meep_Mop:
   - text: |
-    1. Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply.
+    "1. Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply.
     2. Your bot must perform some task that makes the job of humans easy.
     3. The task performed by your bot must be automated, which means that after you start your bot once, you cannot make any changes in it, and it should complete the specified task on its own.
     4. You will be provided a maximum number of 3 attempts to complete the predefined task.
     5. Prefer creating a moving bot rather than a bot with no wheels.
-    6. Let your creativity run free and submit your idea, then we will let you know if it is worth creating or not.
+    6. Let your creativity run free and submit your idea, then we will let you know if it is worth creating or not."
 
   utter_all_rule_Match_n_Engage:
   - text: |
-    1. Bot Review & Preliminary Round:
+    "1. Bot Review & Preliminary Round:
        The event coordinators would review the project to gauge the progress. The Arduino Code should be completed.
 
     2. Final Round:
@@ -107,12 +111,12 @@ responses:
     Judging Criteria
     a. Compact Code [+200 points]
     b. Smooth Turn (Relative) [+300 points]
-    c. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
+    c. Time Factor: Max [600 points], allotted relatively to the performance of all the participants."
 
 
   utter_all_rule_Bumble_See:
   - text: |
-    Judges' decisions will be final and binding to all.
+   " Judges' decisions will be final and binding to all.
     You will be provided with 220V 50HZ AC power. Your Code should not be hard-coded.
     Organizers reserve the right to change any rules or make new changes.
     Each team is allowed one trial run in both rounds to calibrate their sensors. No team is allowed to make changes in their code during or after the trial run.
@@ -128,7 +132,7 @@ responses:
     - d. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
     Stage 2(Misc):
     - a. Same as stage 1.
-    - b. Reaching the end [+1000 points]
+    - b. Reaching the end [+1000 points]"
 
   utter_Bot_Rush_organizer:
   - text: "Bot Rush is being organized by Robotics Club MNNIT"
