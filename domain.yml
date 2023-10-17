@@ -82,6 +82,20 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+  utter_all_rule_Match_n_Engage:
+  - text: |
+    1. Bot Review & Preliminary Round:
+       The event coordinators would review the project to gauge the progress. The Arduino Code should be completed.
+
+    2. Final Round:
+       Bots selected for the final round should have Arduino and ESP01 Code Completed.
+       The bot should be fully operated through the cell phone(app).
+
+    Judging Criteria
+    a. Compact Code [+200 points]
+    b. Smooth Turn (Relative) [+300 points]
+    c. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
+
 
   utter_all_rule_Bumble_See:
   - text: |
