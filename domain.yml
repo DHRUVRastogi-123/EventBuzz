@@ -82,6 +82,27 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+
+  utter_all_rule_Bumble_See:
+  - text: |
+    Judges' decisions will be final and binding to all.
+    You will be provided with 220V 50HZ AC power. Your Code should not be hard-coded.
+    Organizers reserve the right to change any rules or make new changes.
+    Each team is allowed one trial run in both rounds to calibrate their sensors. No team is allowed to make changes in their code during or after the trial run.
+    Stages:
+    - Preliminary round (Line Following):
+        The bot should be able to follow the black lines at this stage and complete the first part of the arena.
+    - Final round (Wall Following):
+        The bot should be able to follow the walls at this stage and complete the whole arena.
+    Stage 1:
+    - a. Clearing checkpoint 1 [+300 points]
+    - b. Clearing checkpoint 2 [+500 points]
+    - c. Clearing checkpoint 3 [+600 points]
+    - d. Time Factor: Max [600 points], allotted relatively to the performance of all the participants.
+    Stage 2(Misc):
+    - a. Same as stage 1.
+    - b. Reaching the end [+1000 points]
+
   utter_Bot_Rush_organizer:
   - text: "Bot Rush is being organized by Robotics Club MNNIT"
 
