@@ -82,7 +82,84 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+  utter_Match_n_Engage_image:
+  - text: "No"
   
+  utter_Match_n_Engage_venue:
+  - text: "No"
+
+  utter_Match_n_Engage_Registration:
+   - text: "No"
+   
+  utter_Match_n_Engage_subevents:
+  - text: "No"
+  
+  utter_Match_n_Engage:
+   - text: |
+     1. This is a team event with a maximum of 4 members and a minimum of 2. Team members can be from any branch.
+     2. You have to build a working bot for any one problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
+     3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
+     4. The decision of the judges will be final and binding. Rules and Regulations
+     5. This is a cumulative score event. So you need to perform well in all rounds to win.
+     6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part  of the project is found copied the team will be disqualified immediately.
+     7. Do not assume anything in the PS by yourself. Contact us to resolve any discrepancies.
+     
+  utter_Decept_of_Home_image:
+  - text: "No"
+  
+  utter_Decept_of_Home_venue:
+  - text: "No"
+  
+  utter_Decept_of_Home_Registration:
+  - text: "No"
+  
+  utter_Decept_of_Home_subevents:
+  - text: "No"
+  
+  utter_Decept_of_Home:
+  - text: |
+    1. This is a team event with a maximum of 4 members and a minimum of 2. Team members can be from any branch.
+    
+    2. You have to build a working bot for anyone problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
+    
+    3. You’ll be required to submit an abstract before submitting a solution, in which you will describe the approach to the problem and list all the hardware used.
+    
+    4. The decision of the judges will be final and binding. Rules and Regulations
+    
+    5. This is a cumulative score event. So you need to perform well in all roundsto win.
+    
+    6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part of the project is found copied the team will be disqualified immediately.
+
+    7. Do not qssume anything in the PS by yourself. Contact us to resolve any discrepancies.
+    
+  utter_Bumble_See_image:
+  - text: "No"
+  
+  utter_Bumble_See_venue:
+  - text: "No"
+  
+  utter_Bumble_See_Registration:
+  - text: "No"
+  
+  utter_Bumble_See_subevents:
+  - text: "No"
+  
+  utter_Bumble_See:
+  - text: |
+    1. This is a team event with a maximum of 4 members and a minimum of 2.Team members can be from any branch.
+
+    2. You have to build a working bot for anyone problem before the deadline. You can contact seniors for any discrepancies or doubts in the problem statement.
+    
+   3. You’ll be required to submit an abstract before submitting a
+   solution, in which you will describe the approach to the problem and list all the hardware used.
+
+   4. The decision of the judges will be final and binding.
+   
+   5. This is a cumulative score event. So you need to perform well in all rounds to win.
+   6. ANY FORM OF CODE PLAGIARISM WILL NOT BE TOLERATED. If any part of the project is found copied the team will be disqualified immediately.
+
+   7. Do not assume anything in the PS by yourself. Contact us to resolve any discrepancies.
+   
   utter_Match_n_Engage_contact_details:
   - text: |
     EVENT COORDINATOR
@@ -152,8 +229,20 @@ responses:
   - text: "2. Your bot must perform some task that makes the job of humans easy."
 
   utter_rule_1_Meep_Mop:
-   - text:  " Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply."
-   
+  - text: " Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply."
+
+  utter_rule_6_Match_n_Engage:
+  - text: "No"
+
+  utter_rule_5_Match_n_Engage:
+  - text: "No"
+
+  utter_rule_4_Match_n_Engage:
+  - text: "No"
+
+  utter_rule_3_Match_n_Engage:
+  - text: " No"
+  
   utter_rule_2_Match_n_Engage:
   - text: |
    2. Final Round:
@@ -183,6 +272,9 @@ responses:
   
   utter_rule_1_Decept_of_Home:
   - text: "1. Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply."
+
+  utter_rule_6_Bumble_See:
+  - text: "No"
   
   utter_rule_5_Bumble_See:
   - text: |
