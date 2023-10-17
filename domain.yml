@@ -82,6 +82,15 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+  utter_all_rule_Meep_Mop:
+  - text: |
+    1. Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply.
+    2. Your bot must perform some task that makes the job of humans easy.
+    3. The task performed by your bot must be automated, which means that after you start your bot once, you cannot make any changes in it, and it should complete the specified task on its own.
+    4. You will be provided a maximum number of 3 attempts to complete the predefined task.
+    5. Prefer creating a moving bot rather than a bot with no wheels.
+    6. Let your creativity run free and submit your idea, then we will let you know if it is worth creating or not.
+
   utter_all_rule_Match_n_Engage:
   - text: |
     1. Bot Review & Preliminary Round:
