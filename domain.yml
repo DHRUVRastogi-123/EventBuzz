@@ -82,6 +82,10 @@ intents:
   - event_description_sample_arena_Meep_Mop
 
 responses:
+  utter_rule_1_Bumble_See:
+  - text: |
+    Judges' decisions will be final and binding to all.
+
   utter_all_rule_Meep_Mop:
   - text: |
     1. Your bot must use a minimum of 2 sensors (motor as well), Arduino board, and should work on regular power supply.
